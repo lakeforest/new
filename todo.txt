@@ -1,4 +1,5 @@
 [ ] understand git
 [ ] be great at programming
 [ ] know how to use code at work
-
+git diff
+more changes 
